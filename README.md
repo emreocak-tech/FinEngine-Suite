@@ -32,10 +32,11 @@ Comparison: Compare the performance of up to three different stocks on a single 
 Financial Ratios: Track critical metrics including Sector, P/E Ratio, Forward P/E, and Beta.
 
 4. AI & Utility Tools
-5. Gemini AI Integration: Powered by Google Gemini (3-Flash), acting as a "Quant Trader" to explain concepts and answer financial queries.
+Gemini AI Integration: Powered by Google Gemini (3-Flash), acting as a "Quant Trader" to explain concepts and answer financial queries.
 
 Currency Exchange: Real-time USD/TRY parity tracking via Exchange Rate API.
-6. 🛠️ Tech Stack
+
+5. 🛠️ Tech Stack
 Python 3.11
 
 Streamlit: For the web interface.
@@ -62,5 +63,3 @@ stock_market.py: Classes for fetching stock data and generating visualizations.
 ⚠️ Disclaimer
 The calculations and AI-generated responses provided by this app are for informational purposes only. This is not financial advice (YTD). Always consult with a professional advisor before making investment decisions.
 Gemini AI Integration: Powered by Google Gemini (3-Flash), acting as a "Quant Trader" to explain concepts and answer financial queries.
-
-Currency Exchange: Real-time USD/TRY parity tracking via Exchange Rate API.
